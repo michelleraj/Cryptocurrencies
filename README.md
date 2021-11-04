@@ -1,1 +1,2 @@
 # Cryptocurrencies
+Using hte theory of Unsupervised learning created a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for new investment. Summarised the analysis by createing four groups of data from the crypto dataset, creating 2D and 3D scatter plot for better visuaization and understanding of the classification of the data
